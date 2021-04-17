@@ -12,3 +12,4 @@ This project is about creating webpage.
 
 ## To do:
 - Created webpage with HTML, CSS, JavaScript
+- Learn commands
